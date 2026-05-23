@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pandas
+streamlit
+requests
+scikit-learn
+openpyxl

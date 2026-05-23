@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore unnecessary files
+backend/test.py
+frontend/test_app.py
+backend/dont_use_recommender.py
+
+# Ignore duplicate backend images
+backend/Images/
